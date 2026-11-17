@@ -1,0 +1,11 @@
+[
+  {
+    "id": "news-winter-update",
+    "title": "Frost's Offical Release!",
+    "excerpt": "Frost Official Released! Check it out, skins won't be free for long.",
+    "publishedAt": "2026-11-17",
+    "thumbnail": "https://i.imgur.com/your-image-link.png",
+    "category": "release",
+    "markdownUrl": "https://raw.githubusercontent.com/woahvincewowsocool293-max/frost-news/main/frost_news.md"
+  }
+]
